@@ -6,3 +6,7 @@ A query do banco será executada no servidor uma vez. Neste momento o Redis irá
 #### Configuração
 
 Para subir as configurações bastar executar o docker que o banco e o redis serão startados, e importar o dump-fiap para carregar a massa de dados
+
+### GIHUB
+
+    https://github.com/shiguemori/Java-Persistence
